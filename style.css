@@ -1,0 +1,69 @@
+body{
+    background-color: #cbc5c5;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.header h2,p{
+    text-align: center;
+    font-size: 30px;
+}
+.form label{
+    font-size: 30px;
+}
+.form{
+    padding-left: 500px;
+    padding-top: 10px;
+}
+#email{
+    width: 150px;
+    height: 30px;
+    margin-left: 30px;
+}
+#Password{
+    width: 150px;
+    height: 30px;
+    margin-left: 46px;
+}
+#Birth{
+    width: 150px;
+    height: 30px;
+    margin-left: 40px;
+}
+#zipcode{
+    width: 150px;
+    height: 30px; 
+    margin-left: 16px; 
+}
+#male{
+    margin-left: 70px;
+}
+#Female{
+    margin-left: 15px;
+}
+/* .formpro{
+    font-size: 25px;
+} */
+#personalized{
+    font-size: 10px;
+    font-weight: 400;
+}
+.terms{
+    text-decoration: none;
+}
+.privacy{
+    text-decoration: none;
+}
+#submit{
+    width: 80px;
+    height: 30px;  
+}
+.goback{
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 15px;
+}
+.sign{
+    text-decoration: none;
+}
